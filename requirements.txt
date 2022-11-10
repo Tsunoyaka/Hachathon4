@@ -1,0 +1,17 @@
+wheel
+djangorestframework
+django-filter
+drf-yasg
+djangorestframework-simplejwt
+psycopg2-binary
+Pillow
+python-decouple
+python-slugify
+celery
+redis
+beautifulsoup4
+requests
+lxml
+psycopg2-binary
+peewee
+
